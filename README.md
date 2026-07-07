@@ -2,8 +2,8 @@
 
 [![image](./cmd/assets//exaple.jpg)](#)
 
-![Downloads](https://badgen.net/github/assets-dl/Ruwantha-OFFICIAL/XEO-BOT/?color=green)
-![Release](https://badgen.net/github/release/Ruwantha-OFFICIAL/XEO-BOT/?color=green)
+![Downloads](https://badgen.net/github/assets-dl/Ruwantha-OFFICIAL/Web-Found/?color=green)
+![Release](https://badgen.net/github/release/Ruwantha-OFFICIAL/Web-Found/?color=green)
 ![go](https://badgen.net/badge/icon/golang?icon=go&label&color=green)
 
 **Fast & Simple Web Content Discovery**
@@ -25,9 +25,9 @@ Go to **[Release](https://google.com)** Page & Download Binary File
 ### Downloads
 | Architecture | Windows | Linux |
 | :--- | :---: | :---: |
-| **x86_64 / amd64** | [Download](link.exe) | [Download](link) |
-| **aarch64 / arm64** | [Download](link.exe) | [Download](link) |
-| **x86 / 386** | [Download](link.exe) | [Download](link) |
+| **x86_64 / amd64** | [Download](https://github.com/Ruwantha-OFFICIAL/Web-Found/releases/download/1.0.0v/web-found_windows_amd64.zip) | [Download](https://github.com/Ruwantha-OFFICIAL/Web-Found/releases/download/1.0.0v/web-found_linux_amd64.tar.gz) |
+| **aarch64 / arm64** | [Download](https://github.com/Ruwantha-OFFICIAL/Web-Found/releases/download/1.0.0v/web-found_windows_arm64.zip) | [Download](https://github.com/Ruwantha-OFFICIAL/Web-Found/releases/download/1.0.0v/web-found_linux_arm64.tar.gz) |
+| **x86 / 386** | [Download](https://github.com/Ruwantha-OFFICIAL/Web-Found/releases/download/1.0.0v/web-found_windows_386.zip) | [Download](https://github.com/Ruwantha-OFFICIAL/Web-Found/releases/download/1.0.0v/web-found_linux_386.tar.gz) |
 
 ### Linux Setup 
 ```bash
