@@ -21,7 +21,7 @@ func Send(res chan OutPut,url string,wg *sync.WaitGroup,redirect bool){
   defer wg.Done()
   client:= resty.New()
   client.SetTimeout(20 * time.Second)
-  if redirect{
+  if !redirect{
     client.SetRedirectPolicy(resty.NoRedirectPolicy())
 
   }
