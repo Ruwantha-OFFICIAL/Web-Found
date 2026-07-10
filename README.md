@@ -1,5 +1,6 @@
 # Web FOUND
-
+Web Found is a powerful web scanning tool designed to help developers and security professionals identify potential vulnerabilities in web applications. The tool uses a word list to send HTTP requests to a target URL and prints the response status codes. With its simple and intuitive interface, Web Found makes it easy to scan web applications and identify potential security risks.
+## Screenshot 📸
 [![image](./cmd/assets//exaple.jpg)](#)
 
 ![Downloads](https://badgen.net/github/assets-dl/Ruwantha-OFFICIAL/Web-Found/?color=green)
@@ -8,8 +9,6 @@
 
 **Fast & Simple Web Content Discovery**
 
-Find what the web server doesn't want you to see.
-Hidden dirs, backup files, admin panels - all in one scan.
 
 ## Features ✨
 - **Fast HEAD Requests** - Low bandwidth scanning
@@ -19,6 +18,22 @@ Hidden dirs, backup files, admin panels - all in one scan.
 - **Clean Output** - With banner and summary
 
 ----
+## 📂 Project Structure
+```markdown
+web-found/
+├── cmd/
+│   ├── main.go
+│   ├── check.go
+├── internal/
+│   ├── readfile/
+│   │   ├── reader.go
+│   ├── requests/
+│   │   ├── request.go
+├── go.mod
+├── go.sum
+```
+---
+
 ## Installation 
 Go to **[Release](https://google.com)** Page & Download Binary File 
 
@@ -52,8 +67,15 @@ chmod +x web-found
 
 - **url**: Rconsens Website Url/Domain Name
 - **word**: You Provide Word List  `wordlist.txt/webco.txt`
-- **r**: Redirect mode false
+- **r**: Redirect mode
 
 ---
+## 📝 License
+Web Found is licensed under the ISC License.
+
+## 📬 Contact
+For any questions or concerns, please contact us at [ruwanthalasith20@gmail.com](mailto:ruwanthalasith20@gmail.com).
+
+
 
 Copyright 2026 Lasith Ruwantha Amarawansha
